@@ -1,0 +1,3 @@
+name: PermissionWhitelist
+main: ru.violence.permissionwhitelist.PermissionWhitelistPlugin
+version: ${project.version}
